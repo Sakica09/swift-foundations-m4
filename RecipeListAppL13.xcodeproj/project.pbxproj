@@ -15,6 +15,7 @@
 		5F215D6527A424840037C0C6 /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F215D6427A424840037C0C6 /* Recipe.swift */; };
 		5F215D6727A425FE0037C0C6 /* RecipeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F215D6627A425FE0037C0C6 /* RecipeModel.swift */; };
 		5F215D6927A4277B0037C0C6 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F215D6827A4277B0037C0C6 /* DataService.swift */; };
+		5F2D43E127C3CD0A003C31AF /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F2D43E027C3CD0A003C31AF /* RecipeTabView.swift */; };
 		5F49155027A801FC0066A4F8 /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F49154F27A801FC0066A4F8 /* RecipeDetailView.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +29,7 @@
 		5F215D6427A424840037C0C6 /* Recipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe.swift; sourceTree = "<group>"; };
 		5F215D6627A425FE0037C0C6 /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
 		5F215D6827A4277B0037C0C6 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		5F2D43E027C3CD0A003C31AF /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
 		5F49154F27A801FC0066A4F8 /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -86,6 +88,7 @@
 			children = (
 				5F215D5127A423700037C0C6 /* RecipeListView.swift */,
 				5F49154F27A801FC0066A4F8 /* RecipeDetailView.swift */,
+				5F2D43E027C3CD0A003C31AF /* RecipeTabView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 				5F215D5227A423700037C0C6 /* RecipeListView.swift in Sources */,
 				5F215D5027A423700037C0C6 /* RecipeListAppL13.swift in Sources */,
 				5F215D6927A4277B0037C0C6 /* DataService.swift in Sources */,
+				5F2D43E127C3CD0A003C31AF /* RecipeTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
